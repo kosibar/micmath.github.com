@@ -14,7 +14,7 @@
 </p>
 
 <p>
-    Note that this tag is intended for simple collections of static properties, it does not allow you to provide @examples or similar complex information for each property, just the type, name and description.
+    Note that property tags must be used in doc comments for the thing that they are properties of, a namespace or a class for example. This tag is intended for simple collections of static properties, it does not allow you to provide @examples or similar complex information for each property, just the type, name and description.
 </p>
 
 <h3>Examples</h3>
