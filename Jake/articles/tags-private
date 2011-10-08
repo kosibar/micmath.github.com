@@ -1,7 +1,7 @@
 <!--{
-    title:       '@private',
-    out:         'tags-private.html',
-    description: ''
+    "title":       "@private",
+    "out":         "tags-private.html",
+    "description": ""
 }-->
 <h3>Overview</h3>
 

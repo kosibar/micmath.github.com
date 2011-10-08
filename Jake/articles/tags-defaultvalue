@@ -1,7 +1,7 @@
 <!--{
-    title:       '@defaultvalue',
-    out:         'tags-defaultvalue.html',
-    description: ''
+    "title":       "@defaultvalue",
+    "out":         "tags-defaultvalue.html",
+    "description": ""
 }-->
 <h3>Overview</h3>
 

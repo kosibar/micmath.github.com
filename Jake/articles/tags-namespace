@@ -1,7 +1,7 @@
 <!--{
-    title:       '@namespace',
-    out:         'tags-namespace.html',
-    description: ''
+    "title":       "@namespace",
+    "out":         "tags-namespace.html",
+    "description": ""
 }-->
 <h3>Overview</h3>
 

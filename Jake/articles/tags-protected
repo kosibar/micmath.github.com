@@ -1,7 +1,7 @@
 <!--{
-    title:       '@protected',
-    out:         'tags-protected.html',
-    description: ''
+    "title":       "@protected",
+    "out":         "tags-protected.html",
+    "description": ""
 }-->
 <h3>Overview</h3>
 

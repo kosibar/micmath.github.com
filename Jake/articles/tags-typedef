@@ -1,7 +1,7 @@
 <!--{
-    title:       '@typedef',
-    out:         'tags-typedef.html',
-    description: ''
+    "title":       "@typedef",
+    "out":         "tags-typedef.html",
+    "description": ""
 }-->
 <h3>Overview</h3>
 

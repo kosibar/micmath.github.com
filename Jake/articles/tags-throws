@@ -1,7 +1,7 @@
 <!--{
-    title:       '@throws',
-    out:         'tags-throws.html',
-    description: ''
+    "title":       "@throws",
+    "out":         "tags-throws.html",
+    "description": ""
 }-->
 <h3>Overview</h3>
 

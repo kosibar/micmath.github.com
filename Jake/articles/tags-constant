@@ -1,7 +1,7 @@
 <!--{
-    title:       '@constant',
-    out:         'tags-constant.html',
-    description: ''
+    "title":       "@constant",
+    "out":         "tags-constant.html",
+    "description": ""
 }-->
 <h3>Overview</h3>
 

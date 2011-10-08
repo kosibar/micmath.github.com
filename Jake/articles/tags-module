@@ -1,7 +1,7 @@
 <!--{
-    title:       '@module',
-    out:         'tags-module.html',
-    description: ''
+    "title":       "@module",
+    "out":         "tags-module.html",
+    "description": ""
 }-->
 <h3>Overview</h3>
 

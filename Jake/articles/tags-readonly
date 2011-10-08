@@ -1,7 +1,7 @@
 <!--{
-    title:       '@readonly',
-    out:         'tags-readonly.html',
-    description: ''
+    "title":       "@readonly",
+    "out":         "tags-readonly.html",
+    "description": ""
 }-->
 <h3>Overview</h3>
 

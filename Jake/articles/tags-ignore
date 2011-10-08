@@ -1,7 +1,7 @@
 <!--{
-    title:       '@ignore',
-    out:         'tags-ignore.html',
-    description: ''
+    "title":       "@ignore",
+    "out":         "tags-ignore.html",
+    "description": ""
 }-->
 <h3>Overview</h3>
 

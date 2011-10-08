@@ -1,7 +1,7 @@
 <!--{
-    title:       '@license',
-    out:         'tags-license.html',
-    description: ''
+    "title":       "@license",
+    "out":         "tags-license.html",
+    "description": ""
 }-->
 <h3>Overview</h3>
 
