@@ -3,6 +3,17 @@
     "out":         "tags-augments.html",
     "description": ""
 }-->
+
+<h3>Synonyms</h3>
+
+<ul>
+    <li>@extends</li>
+</ul>
+
+<h3>Syntax</h3>
+
+<code>@augments &lt;namepath&gt;</code>
+
 <h3>Overview</h3>
 
 <p>
@@ -56,7 +67,7 @@ d.speak;
 <h3>See Also</h3>
 
 <ul>
-    <li><a href="tags-constructor.html">@class</a></li>
+    <li><a href="tags-constructor.html">@constructor or @class</a></li>
     <li><a href="tags-mixin.html">@mixin</a></li>
     <li><a href="tags-mixes.html">@mixes</a></li>
     <li><a href="tags-borrows.html">@borrows</a></li>

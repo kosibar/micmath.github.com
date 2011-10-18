@@ -3,6 +3,10 @@
     "out":         "tags-borrows.html",
     "description": ""
 }-->
+<h3>Syntax</h3>
+
+<code>@borrows &lt;that namepath&gt; as &lt;this namepath&gt;</code>
+
 <h3>Overview</h3>
 
 <p>
@@ -10,7 +14,7 @@
 </p>
 
 <p>
-    This tag would be useful if you had more than one way to reference a function, but you didn't want to duplicate the same documentation more than once.
+    This tag would be useful if you had more than one way to reference a function, but you didn't want to duplicate the same documentation in two places.
 </p>
 
 <h3>Examples</h3>
