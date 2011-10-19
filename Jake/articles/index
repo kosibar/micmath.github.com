@@ -21,14 +21,12 @@
 		<dd>Use the following text to describe the entire class.</dd>
 	<dt><a href="tags-constant.html">@constant or @const</a></dt>
 		<dd>Document an object as a constant.</dd>
-	<dt><a href="tags-default.html">@default</a></dt>
-		<dd>Document the default value.</dd>
 	<dt><a href="tags-copyright.html">@copyright</a></dt>
 		<dd>[todo] Document some copyright information.</dd>
 	<dt><a href="tags-constructs.html">@constructs</a></dt>
 		<dd>[todo] This function member will be the constructor for the previous class.</dd>
-	<dt><a href="tags-defaultvalue.html">@defaultvalue or @default</a></dt>
-		<dd>[todo] Document the default value of a variable.</dd>
+	<dt><a href="tags-default.html">@default</a></dt>
+		<dd>Document the default value.</dd>
 	<dt><a href="tags-deprecated.html">@deprecated</a></dt>
 		<dd>[todo] This is no longer the preferred way.</dd>
 	<dt><a href="tags-description.html">@desc or @description</a></dt>
