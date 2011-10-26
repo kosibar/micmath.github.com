@@ -1,6 +1,6 @@
 <!--{
-    "title":       "@function",
-    "out":         "tags-function.html",
+    "title":       "@method",
+    "out":         "tags-method.html",
     "description": ""
 }-->
 <h3>Overview</h3>
